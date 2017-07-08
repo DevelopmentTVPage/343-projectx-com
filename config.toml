@@ -1,0 +1,11 @@
+#Hugo configuration
+title = "Project X"
+baseURL = "https:\/\/projectx.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1758854"
+subfolder = ""
